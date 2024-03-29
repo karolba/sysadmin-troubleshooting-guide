@@ -8,7 +8,7 @@ $ strace -o trace curl http://google.com
 
 ## 2. Filtering out memory-management related syscalls
 
-Add the `-e trace='!memory'` argument to strace to get rid of memory-related syscalls from the outputs. Observe how the log becomes less cluttered!
+Add the `--trace='!memory'` argument to strace to get rid of memory-related syscalls from the outputs. Observe how the log becomes less cluttered!
 
 ## 3. Keeping track of file descriptors
 
