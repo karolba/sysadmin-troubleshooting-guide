@@ -10,7 +10,7 @@ $ strace -o trace echo hello
 
 ## 2. A note on dynamic linking
 
-`/bin/echo` is a dynamically linked program, so it will load libraries it depends on before starting.
+`/bin/echo` is a dynamically linked program, so it will load libraries it depends on before starting. You will see this in strace!
 
 You can confirm that it is for yourself - and identify which libraries you should see it accessing in strace - by running this command:
 
