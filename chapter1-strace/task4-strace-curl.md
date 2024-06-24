@@ -32,4 +32,4 @@ The goal of this task is to be able to explain to your tutor the purpose of ever
 
 ## Next
 
-Work in progress - to be announced!
+[./task5-bash-config.md](./task5-bash-config.md)

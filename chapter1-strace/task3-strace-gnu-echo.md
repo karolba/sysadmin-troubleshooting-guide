@@ -1,4 +1,4 @@
-# Task 2 - `stracing` the `echo` command.
+# Task 3 - `stracing` the `echo` command.
 
 ## 1. Stracing
 
