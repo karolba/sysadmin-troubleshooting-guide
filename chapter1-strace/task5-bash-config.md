@@ -16,4 +16,4 @@ The goal of this task is to be able to figure out from where does bash really re
 
 ## Next
 
-To be announced
+[./task6-could-not-connect.md](./task6-could-not-connect.md)
