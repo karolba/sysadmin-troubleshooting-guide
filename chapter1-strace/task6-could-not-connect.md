@@ -9,3 +9,7 @@ echo 'I2luY2x1ZGUgPHN0ZGlvLmg+CiNpbmNsdWRlIDx1bmlzdGQuaD4KI2luY2x1ZGUgPHN0ZGxpYi
 Execute this program and see what's going on. What is it actually trying to connect to? Let's find out!
 
 Tip: Try both `strace` and a new tool `ltrace` here. `ltrace` inject itself between your traced program and dynamically loaded libraries, to tell you what's being invoked from dynamically linked libraries.
+
+## Next task
+
+[./task7-ps-aux.md](./task7-ps-aux.md)
